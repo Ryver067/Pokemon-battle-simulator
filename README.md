@@ -11,4 +11,4 @@ A C++ project where I simulate Pokémon team battles using real stat data from a
 ## CONS
 - It does not checks for the Pokemon's type
 
--It only compares the pokemon's BST
+- It only compares the pokemon's BST
